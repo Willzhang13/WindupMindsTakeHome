@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TakeHomeEng.unity
+    guid: 084214914e1cde84990e4056565ce1e3
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 13e94a5ba66f6344cbd93db234666423, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c7e52c00c6f74ad49b907e44155d0f53, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: dabee26236842d9469b5b42e1d3cb202, type: 2}
